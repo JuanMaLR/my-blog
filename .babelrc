@@ -1,0 +1,4 @@
+//Here we tell babel how we want it to transpile the modern ES6 JS in which we write to common JS node can execute
+{
+    "presets": ["@babel/preset-env"]
+} 
