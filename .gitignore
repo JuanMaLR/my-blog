@@ -1,0 +1,3 @@
+#We don't need to include all of our modules becase the folder is very big
+#It is better to run directly on the server the npm install commands in order to have our modules in the cloud
+#node_modules
